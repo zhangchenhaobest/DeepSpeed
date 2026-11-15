@@ -1,3 +1,29 @@
+# DeepSpeed
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+让分布式训练与推理更简单、高效、有效的深度学习优化库。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 [![License Apache 2.0](https://badgen.net/badge/license/apache2.0/blue)](https://github.com/deepspeedai/DeepSpeed/blob/master/LICENSE)
 [![PyPI version](https://badge.fury.io/py/deepspeed.svg)](https://pypi.org/project/deepspeed/)
 [![Downloads](https://static.pepy.tech/badge/deepspeed)](https://pepy.tech/project/deepspeed)
